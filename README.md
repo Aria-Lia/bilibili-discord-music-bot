@@ -10,6 +10,7 @@ Made for fun. Don't abuse.
       - ffmpeg
   - Configure on discord
     - Create Discord application and bot on [Developer portal](https://discord.com/developers/applications).
+    - Put bot token in environment variables `DISCORD_TOKEN`. DON'T PUBLISH IT.
     - (Optional) Register slash command.
     - Invite bot to your server with appropriate permissions.
   - Use
